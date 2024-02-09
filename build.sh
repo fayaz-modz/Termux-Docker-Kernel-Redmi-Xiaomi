@@ -38,7 +38,7 @@ TIME=$(date +"%F%S")
 
 # Specify Final Zip Name
 ZIPNAME=TermuxDockerCompatible-RedmiKernel
-FINAL_ZIP=${ZIPNAME}-${TIME}.zip
+FINAL_ZIP=${ZIPNAME}.zip
 
 ##----------------------------------------------------------##
 # Specify compiler.
